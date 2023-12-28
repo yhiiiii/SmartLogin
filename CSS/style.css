@@ -1,0 +1,26 @@
+span{
+   cursor: pointer;
+}
+
+body{
+   background-color: #878b86;
+   padding-top: 100px;
+}
+
+.container{
+   background-color: #878b86;
+
+   box-shadow:10px 6px 10px 8px black;
+   padding:60px 20px !important;
+}
+
+.msg{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 50%;
+   transform: translate(-50%,-50%);
+   background-color: #878b86;
+   box-shadow: 12px 10px 6px black;
+  
+}
